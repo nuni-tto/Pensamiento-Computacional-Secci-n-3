@@ -4,6 +4,7 @@ Ejercicios y entregas curso pensamiento computacional.
 
 
 ## Sketch 1 - Mi primer p5.js
+![Imagen](https://github.com/nuni-tto/Pensamiento-Computacional-Secci-n-3/blob/main/imagenes/solemne.jpg?raw=true)
 - Qué intenté hacer:
 - Qué aprendí:
 
