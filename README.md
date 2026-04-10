@@ -48,11 +48,11 @@ También tuve problemas con la alineación de las diagonales, ya que pequeños e
 
 - ### Cómo resolví esos problemas (reflexión)
 
-Para resolver estas dificultades, simplifiqué la construcción de la forma negra, utilizando un cuadrado base al que le resté un triángulo. Esta decisión fue clave, ya que permitió mayor control sobre la forma y mejoró la precisión visual.
+Para resolver estas dificultades, simplifiqué la construcción de la forma negra, utilizando un cuadrado base. Esta decisión fue clave, ya que permitió mayor control sobre la forma y mejoró la precisión visual.
 
 También utilicé funciones para organizar el código, lo que facilitó repetir los módulos y hacer ajustes sin tener que modificar cada elemento manualmente.
 
 A través de prueba y error, fui ajustando las coordenadas y proporciones hasta lograr una composición más cercana al original. Este proceso me permitió entender que en programación visual es más efectivo simplificar las formas y trabajar con sistemas repetitivos, en lugar de intentar replicar directamente formas complejas.
 
-En general, el proceso me ayudó a comprender cómo una imagen puede traducirse a código mediante el uso de geometría básica, coordenadas y repetición, y la importancia de la precisión y la organización en el desarrollo del código.
+En general, el proceso me ayudó a comprender cómo una imagen puede traducirse a código mediante el uso de geometría básica, coordenadas y repetición, la importancia de la precisión y la organización en el desarrollo del código.
 
