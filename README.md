@@ -10,7 +10,7 @@
 
 ![Afiche Bauhaus](https://i.pinimg.com/736x/7e/8f/6c/7e8f6c1a9c3d6bd9299a7bd0aae9375c.jpg)
 
----
+
 
 ## Proceso de trabajo
 
@@ -18,7 +18,7 @@
 Elegí este afiche porque presenta una composición basada en geometría simple, repetición y uso de color, lo que lo hacía adecuado para ser traducido a código en p5.js. 
 Además, me interesó su relación con el movimiento Bauhaus, donde el diseño se construye a partir de reglas claras y sistemas modulares.
 
----
+
 
 - ### Cómo analicé la obra (formas, colores, proporciones)
 
@@ -28,7 +28,7 @@ En cuanto a las formas, noté que no eran figuras complejas, sino combinaciones 
 
 Respecto al color, identifiqué el uso de colores primarios (rojo, azul y amarillo), junto con negro y un fondo neutro. También observé que los cuadrados de color mantienen un tamaño constante, lo que ayudó a definir proporciones dentro del código.
 
----
+
 
 - ### Cómo traduje la imagen a coordenadas (X, Y)
 
@@ -36,7 +36,7 @@ Utilicé coordenadas para posicionar cada elemento, apoyándome en ciclos `for` 
 
 Para los cuadrados de color, utilicé coordenadas específicas para ubicarlos en las posiciones correctas dentro de la composición, respetando la estructura del afiche original.
 
----
+
 
 - ### Qué dificultades tuve
 
@@ -44,7 +44,7 @@ Una de las principales dificultades fue lograr que los rectangulos coincidieran 
 
 También tuve problemas con la alineación de las diagonales, ya que pequeños errores en las coordenadas hacían que el patrón no se viera continuo. Además, ajustar proporciones entre los módulos y los cuadrados de color requirió varios intentos.
 
----
+
 
 - ### Cómo resolví esos problemas (reflexión)
 
