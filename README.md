@@ -40,7 +40,7 @@ Para los cuadrados de color, utilicé coordenadas específicas para ubicarlos en
 
 - ### Qué dificultades tuve
 
-Una de las principales dificultades fue lograr que los rectangulos coincidieran con los del afiche. En un inicio intenté construir figuras más complejas, como rectángulos diagonales o formas irregulares, pero esto hacía que el resultado no fuera preciso.
+Una de las principales dificultades fue lograr que los rectangulos coincidieran con los del afiche. En un inicio intenté construir figuras más complejas, o formas irregulares, pero esto hacía que el resultado no fuera preciso.
 
 También tuve problemas con la alineación de las diagonales, ya que pequeños errores en las coordenadas hacían que el patrón no se viera continuo. Además, ajustar proporciones entre los módulos y los cuadrados de color requirió varios intentos.
 
