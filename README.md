@@ -20,7 +20,7 @@ Además, me interesó su relación con el movimiento Bauhaus, donde el diseño s
 
 ---
 
-### Cómo analicé la obra (formas, colores, proporciones)
+- ### Cómo analicé la obra (formas, colores, proporciones)
 
 Primero observé la imagen e identifiqué que estaba compuesta por una grilla de módulos repetidos. Cada módulo contiene un rectangulo negro con una diagonal y un cuadrado de color encima.
 
@@ -30,7 +30,7 @@ Respecto al color, identifiqué el uso de colores primarios (rojo, azul y amaril
 
 ---
 
-### Cómo traduje la imagen a coordenadas (X, Y)
+- ### Cómo traduje la imagen a coordenadas (X, Y)
 
 Utilicé coordenadas para posicionar cada elemento, apoyándome en ciclos `for` para repetir los módulos de manera ordenada. Esto me permitió mantener proporciones consistentes y ajustar fácilmente el espaciado entre ellos.
 
@@ -38,7 +38,7 @@ Para los cuadrados de color, utilicé coordenadas específicas para ubicarlos en
 
 ---
 
-### Qué dificultades tuve
+- ### Qué dificultades tuve
 
 Una de las principales dificultades fue lograr que los rectangulos coincidieran con los del afiche. En un inicio intenté construir figuras más complejas, como rectángulos diagonales o formas irregulares, pero esto hacía que el resultado no fuera preciso.
 
@@ -46,7 +46,7 @@ También tuve problemas con la alineación de las diagonales, ya que pequeños e
 
 ---
 
-### Cómo resolví esos problemas (reflexión)
+- ### Cómo resolví esos problemas (reflexión)
 
 Para resolver estas dificultades, simplifiqué la construcción de la forma negra, utilizando un cuadrado base al que le resté un triángulo. Esta decisión fue clave, ya que permitió mayor control sobre la forma y mejoró la precisión visual.
 
