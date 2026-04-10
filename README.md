@@ -1,11 +1,8 @@
 # Pensamiento-Computacional-Secci-n-3
-## Primer ejercicio
-Ejercicios y entregas curso pensamiento computacional.
 
+## Información de la obra
 
-## Sketch 1 - Mi primer p5.js
-![Imagen](https://github.com/nuni-tto/Pensamiento-Computacional-Secci-n-3/blob/main/imagenes/solemne.jpg?raw=true)
-- Qué intenté hacer:
-- Qué aprendí:
-
-![Imagen](https://i.pinimg.com/736x/c6/de/4f/c6de4fbc92c32c25dd90c41884968d63.jpg)
+**Nombre de la obra:** Bauhaus-Ausstellung  
+**Autor:** Joost Schmidt  
+**Año:** 1923 
+**Imagen original:**![imagen]([url-de-la-imagen](https://imgur.com/a/x5xDn6Z)) 
