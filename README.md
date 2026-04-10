@@ -32,7 +32,7 @@ Respecto al color, identifiqué el uso de colores primarios (rojo, azul y amaril
 
 - ### Cómo traduje la imagen a coordenadas (X, Y)
 
-Utilicé coordenadas para posicionar cada elemento, apoyándome en ciclos `for` para repetir los módulos de manera ordenada. Esto me permitió mantener proporciones consistentes y ajustar fácilmente el espaciado entre ellos.
+Utilicé coordenadas para posicionar cada elemento, apoyándome en ciclos **for** para repetir los módulos de manera ordenada. Esto me permitió mantener proporciones consistentes y ajustar fácilmente el espaciado entre ellos.
 
 Para los cuadrados de color, utilicé coordenadas específicas para ubicarlos en las posiciones correctas dentro de la composición, respetando la estructura del afiche original.
 
