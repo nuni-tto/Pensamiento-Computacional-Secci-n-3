@@ -9,7 +9,7 @@
 
 
 ![Afiche Bauhaus](https://i.pinimg.com/736x/7e/8f/6c/7e8f6c1a9c3d6bd9299a7bd0aae9375c.jpg)
-
+![minion](imagenminion/minion.jpg)
 
 ## Proceso de trabajo
 
